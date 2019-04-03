@@ -1,0 +1,26 @@
+{
+  "name": "cct",
+  "version": "1.0.0",
+  "description": "Code Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CCT"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Dieter Fourie",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "handlebars": "^4.1.1",
+    "mustache": "^3.0.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
